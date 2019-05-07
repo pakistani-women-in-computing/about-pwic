@@ -6,11 +6,11 @@ Our vision is to find ways to “enable our community to connect, learn, and gro
 
 ## Goals: 
 Our global community’s goals are:
-- to build a strong network of Pakistan women in technology and their allies
+- to build a strong network of Pakistani women in technology and their allies
 - to increase their global reach and visibility
 - to foster their growth and retention in STEM fields. 
 
-Our local chapters may have additional goals that fit our global vision but specific to their local needs. 
+Our local chapters may have additional goals that fit our global vision but are specific to their local needs. 
 
 ## Programs / Initiatives: 
 - Global Community Meetups
