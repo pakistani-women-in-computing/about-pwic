@@ -8,7 +8,7 @@ As such, we are committed to providing a friendly, safe and welcoming environmen
 
 This Code of Conduct outlines our expectations for Participant behavior as well as the consequences for unacceptable behavior.
 
-We invite all Participants to help us realize a safe and positive conference experience for everyone.
+We invite all Participants to help us realize a safe and positive experience for everyone.
 
 ## Scope
 PWiC expects all Participants to abide by these guidelines at all the PWiC social events. Participants seek to learn, network, and have fun. Please do so responsibly and with respect for the right of others to do likewise. Thank you for your cooperation in helping us maintain a friendly, safe, and welcoming social environment.
