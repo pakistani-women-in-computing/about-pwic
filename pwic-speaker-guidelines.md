@@ -15,9 +15,8 @@ All speakers must register for PWiC event.
 - If you have a scheduling conflict for religious reasons, please reach out to us so we can accommodate you.
 - Speakers must arrive to their assigned location 15 minutes before their session begins.
 - Speakers must discuss the work for which they were selected to present. 
-- Any handouts you provide to attendees must be directly relevant to the session topic and your work.
-- Speakers may only hand out promotional materials and/or swag before, during, or after their session relevant  relevant to the session topic and your work.
-- All material to be presented or distributed at the event should be submitted to the organizing team 48 hours prior for vetting against PWiC code of conduct and other policies. PWiC team will use their discretion to allow any unvetted material to be shared at the event.
+- Speakers may only hand out promotional materials and/or swag before, during, or after their session relevant to the session topic and your work.
+- All material to be presented or distributed at the event should be submitted to the organizing team (team@pwic.org) 48 hours prior for vetting against PWiC code of conduct and other policies. PWiC team will use their discretion to allow any unvetted material to be shared at the event.
 
 ### Unacceptable Behavior 
-- Speakers may not use their scheduled talk to promote irrelevant agendas. 
+- Speakers may not use their scheduled talk to promote irrelevant agendas.
