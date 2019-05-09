@@ -20,3 +20,4 @@ All speakers must register for PWiC event.
 ### Unacceptable Behavior 
 - Speakers may not use their scheduled talk to promote irrelevant agendas.
 - Speakers may only hand out promotional materials and/or swag before, during, or after their session relevant to the event or the talk.
+- All material (presentations, promotional material) to be presented or distributed at the event should be submitted to the organizing team 48 hours prior for vetting against our code of conduct and other policies. PWiC team will use their discretion to allow any unvetted material to be shared at the event. 
