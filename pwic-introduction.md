@@ -17,7 +17,7 @@ Our local chapters may have additional goals that fit our global vision but are 
 - Learning Workshops / Panels / Webinars
 - Building and maintaining repositories of knowledge and useful resources
 - Career Development and Mentoring 
-- Job, Internship, Returnship Opportunities
+- Job, Internship, Returnship Opportunities (See more: http://bit.ly/pwic-resume)
 - Visibility through publishing STEM stories
 - Creating awareness about global scholarship opportunities
 
