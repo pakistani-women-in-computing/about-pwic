@@ -13,6 +13,7 @@ Here are the best practices to follow while preparing and publishing a medium bl
 7. Add "About the author" section at the end of the article
 8. Ask a member of the Medium publishing team for your local PWiC chapter to proofread your post while it is still in draft mode
 9. Share medium post on Facebook PWiC groups, through PWiC twitter account and PWiC LinkedIn account
+10. Pick a good image for the medium post
 
 - Example PWiC posts:
      - [PWiC Seattle: Returnship Panel and Workshop](https://medium.com/@pwic.org/pwic-returnship-panel-and-workshop-event-highlights-e1fcb2a5d3fa)
