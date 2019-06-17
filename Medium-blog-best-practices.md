@@ -16,5 +16,5 @@ Here are the best practices to follow while preparing and publishing a medium bl
 10. Pick a good image for the medium post
 
 - Example PWiC posts:
-     - [PWiC Seattle: Returnship Panel and Workshop](https://medium.com/@pwic.org/pwic-returnship-panel-and-workshop-event-highlights-e1fcb2a5d3fa)
-     - [PWiC and OPEN Seattle: Making the Leap to Startup from Corporate Life](https://medium.com/@pwic.org/pwic-collaboration-with-open-seattle-2bb67e449cfa)
+       - [PWiC Seattle: Returnship Panel and Workshop](https://medium.com/@pwic.org/pwic-returnship-panel-and-workshop-event-highlights-e1fcb2a5d3fa)
+       - [PWiC and OPEN Seattle: Making the Leap to Startup from Corporate Life](https://medium.com/@pwic.org/pwic-collaboration-with-open-seattle-2bb67e449cfa)
