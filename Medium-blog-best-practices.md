@@ -12,7 +12,6 @@ Here are the best practices to follow while preparing and publishing a medium bl
 6. Add links to resources and reference materials.  For example github repo links to PWiC github resources would be great
 7. Add "About the author" section at the end of the article
 
-
-Example PWiC posts:
-    * [PWiC Seattle: Returnship Panel and Workshop](https://medium.com/@pwic.org/pwic-returnship-panel-and-workshop-event-highlights-e1fcb2a5d3fa)
-    * [PWiC and OPEN Seattle: Making the Leap to Startup from Corporate Life](https://medium.com/@pwic.org/pwic-collaboration-with-open-seattle-2bb67e449cfa)
+- Example PWiC posts:
+     - [PWiC Seattle: Returnship Panel and Workshop](https://medium.com/@pwic.org/pwic-returnship-panel-and-workshop-event-highlights-e1fcb2a5d3fa)
+     - [PWiC and OPEN Seattle: Making the Leap to Startup from Corporate Life](https://medium.com/@pwic.org/pwic-collaboration-with-open-seattle-2bb67e449cfa)
