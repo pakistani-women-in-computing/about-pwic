@@ -21,11 +21,20 @@ Our local chapters may have additional goals that fit our global vision but are 
 - Visibility through publishing STEM stories
 - Creating awareness about global scholarship opportunities
 
-## Social Media: 
+## Social Media
 You can learn more about PWiC through these channels. Please let me know if you have any questions. 
 
 - Website: https://www.pwic.org/
 - Twitter: https://twitter.com/pwic_org
 - Medium: https://medium.com/@pwic.org
 - Facebook: https://www.facebook.com/pakistaniwomenincomputing/
-- LinkedIn: https://www.linkedin.com/groups/8676987/
+- LinkedIn Page: https://www.linkedin.com/groups/8676987
+- Contact email: info@pwic.org
+
+## Aditional Resources
+- Facebook Global Community: https://www.facebook.com/groups/pwic.global/
+- LinkedIn Group: https://www.linkedin.com/groups/8676987
+- Global Job Board: https://www.facebook.com/groups/pwic.jobs/
+- Startups and Entreprenuership: https://www.facebook.com/groups/pwic.startups/
+- Returnship Resources: https://github.com/pakistani-women-in-computing/returnship-resources
+
