@@ -10,7 +10,10 @@ Our global community’s goals are:
 - to increase their global reach and visibility
 - to foster their growth and retention in STEM fields. 
 
-Our local chapters may have additional goals that fit our global vision but are specific to their local needs. 
+Our local chapters may have additional goals that fit our global vision but are specific to their local needs.
+
+## Contact Us
+Contact email: info@pwic.org
 
 ## Programs / Initiatives: 
 - Global Community Meetups
@@ -29,7 +32,6 @@ You can learn more about PWiC through these channels. Please let me know if you 
 - Medium: https://medium.com/@pwic.org
 - Facebook: https://www.facebook.com/pakistaniwomenincomputing/
 - LinkedIn Page: https://www.linkedin.com/groups/8676987
-- Contact email: info@pwic.org
 
 ## Aditional Resources
 - Facebook Global Community: https://www.facebook.com/groups/pwic.global/
@@ -37,4 +39,3 @@ You can learn more about PWiC through these channels. Please let me know if you 
 - Global Job Board: https://www.facebook.com/groups/pwic.jobs/
 - Startups and Entreprenuership: https://www.facebook.com/groups/pwic.startups/
 - Returnship Resources: https://github.com/pakistani-women-in-computing/returnship-resources
-
