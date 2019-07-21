@@ -1,5 +1,5 @@
 # About PWiC:
-Pakistani Women in Computing (PWiC) is a global community of women in technology fields hailing from Pakistan and its global allies, with the aim of inspiring, celebrating, mentoring, and creating opportunities for each other.
+Pakistani Women in Computing (PWiC) is a global community of women in technology fields hailing from Pakistan and their global allies, with the aim of inspiring, celebrating, mentoring, and creating opportunities for each other.
 
 ## Vision: 
 Our vision is to find ways to “enable our community to connect, learn, and grow together”
